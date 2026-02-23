@@ -1,0 +1,2 @@
+admin_password=ax2323
+global_duration=180
